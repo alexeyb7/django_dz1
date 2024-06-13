@@ -1,0 +1,225 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+"GET /firstapp/ HTTP/1.1" 200 11
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /firstapp/ HTTP/1.1" 200 11
+"GET /firstapp/ HTTP/1.1" 200 11
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /firstapp/ HTTP/1.1" 200 11
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /firstapp/ HTTP/1.1" 200 11
+"GET /firstapp/ HTTP/1.1" 200 11
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /firstapp/ HTTP/1.1" 200 11
+Not Found: /firstapp/about
+"GET /firstapp/about HTTP/1.1" 404 2292
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /firstapp/ HTTP/1.1" 200 11
+"GET /firstapp/ HTTP/1.1" 200 11
+Not Found: /firstapp/about
+"GET /firstapp/about HTTP/1.1" 404 2292
+Not Found: /about
+"GET /about HTTP/1.1" 404 2204
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2285
+"GET /firstapp/ HTTP/1.1" 200 11
+"GET /firstapp/about HTTP/1.1" 200 11
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+"GET /firstapp/about HTTP/1.1" 200 38
+"GET /firstapp/about HTTP/1.1" 200 38
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+"GET /firstapp/ HTTP/1.1" 200 11
+"GET /firstapp/about HTTP/1.1" 200 240
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /firstapp/about HTTP/1.1" 200 241
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /firstapp/about HTTP/1.1" 200 206
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /firstapp/about HTTP/1.1" 200 242
+"GET /firstapp/about HTTP/1.1" 200 242
+"GET /firstapp/about HTTP/1.1" 200 242
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /firstapp/about HTTP/1.1" 200 292
+"GET /firstapp/about HTTP/1.1" 200 292
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /firstapp/about HTTP/1.1" 200 292
+"GET /firstapp/ HTTP/1.1" 200 163
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+"GET /firstapp/ HTTP/1.1" 200 163
+"GET /firstapp/about HTTP/1.1" 200 292
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /firstapp HTTP/1.1" 301 0
+"GET /firstapp/ HTTP/1.1" 200 163
+"GET /firstapp/about HTTP/1.1" 200 292
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+"GET /firstapp/ HTTP/1.1" 200 163
+"GET /firstapp/about HTTP/1.1" 200 292
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2222
+Not Found: /
+"GET / HTTP/1.1" 404 2171
+"GET /firstapp/ HTTP/1.1" 200 163
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 163
+"GET /firstapp/ HTTP/1.1" 200 163
+"GET /firstapp/ HTTP/1.1" 200 163
+"GET /firstapp/about HTTP/1.1" 200 292
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 163
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2540
+"GET /firstapp/about/ HTTP/1.1" 200 163
+"GET /firstapp/about/about HTTP/1.1" 200 292
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\DjangoDZ1\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 163
+Not Found: /firstapp/
+"GET /firstapp/ HTTP/1.1" 404 2434
+Not Found: /firstapp/
+"GET /firstapp/ HTTP/1.1" 404 2434
+"GET /about HTTP/1.1" 200 292
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 163
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+Not Found: /firstapp/about
+"GET /firstapp/about HTTP/1.1" 404 2449
+Not Found: /firstapp/
+"GET /firstapp/ HTTP/1.1" 404 2434
+"GET /about HTTP/1.1" 200 292
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET / HTTP/1.1" 200 163
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /about HTTP/1.1" 200 292
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 215
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 220
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2425
+"GET /about HTTP/1.1" 200 292
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 219
+"GET /about HTTP/1.1" 200 292
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 226
+"GET /about HTTP/1.1" 200 292
+"GET /about HTTP/1.1" 200 292
+"GET /about HTTP/1.1" 200 292
+"GET /about HTTP/1.1" 200 292
+"GET /about HTTP/1.1" 200 292
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 226
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /about HTTP/1.1" 200 368
+"GET / HTTP/1.1" 200 226
+"GET /about HTTP/1.1" 200 368
+C:\Users\user\project\DjangoDZ\django_dz1\DjangoDZ1\DjangoDZ1\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET / HTTP/1.1" 200 228
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /about HTTP/1.1" 200 412
+"GET / HTTP/1.1" 200 228
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
